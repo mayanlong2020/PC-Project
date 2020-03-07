@@ -10,6 +10,8 @@
 # plt.title ( 'Intraday GBP/CNY' )
 # plt.show()
 # #
+
+
 """
 # TODO Step 1: Loading Data
 """
